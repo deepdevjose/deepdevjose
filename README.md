@@ -1,5 +1,4 @@
 # Hi, I'm José!
----
 
 Always curious, continuously learning, and ready to collaborate. Let's build something awesome together!
 
