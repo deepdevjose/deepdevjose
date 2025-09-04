@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="189" src="https://avatars.githubusercontent.com/u/217286679?v=4"  />
+  <img height="100" src="https://avatars.githubusercontent.com/u/217286679?v=4"  />
 </div>
 
 ###
