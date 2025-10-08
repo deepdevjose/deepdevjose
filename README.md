@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/217286679?v=4" alt="José's Avatar" style="border-radius: 50%; border: 3px solid #1a1a1a;" />
-</div>
-
 <h1 align="center">José Manuel Cortés Cerón</h1>
 
 <p align="center">
