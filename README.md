@@ -1,4 +1,4 @@
-<h1 align="center">José Manuel Cortés Cerón</h1>
+<h1 align="center">José Manuel Cortes Cerón</h1>
 
 <p align="center">
   I'm a Information Technology Engineering student with strong foundation in software systems, computer science, and digital innovation.  
