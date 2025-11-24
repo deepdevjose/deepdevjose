@@ -34,11 +34,11 @@ Local voice-driven AI using Whisper (STT), GPT4All (LLM), and pyttsx3 (TTS).
 
 ---
 
-### GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepdevjose&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdevjose&theme=transparent&hide_border=true" height="150" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
