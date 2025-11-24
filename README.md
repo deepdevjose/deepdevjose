@@ -44,7 +44,7 @@ Local voice-driven AI using Whisper (STT), GPT4All (LLM), and pyttsx3 (TTS).
 
 ### Contact
 <a href="https://linkedin.com/in/josemanuelcortesceron" target="_blank">LinkedIn</a> • 
-<a href="mailto:josem.cortesceron@gmail.com">Email</a>
+<a href="mailto:deepdevjose@itsoeh.edu.mx">Email</a>
 
 ---
 
