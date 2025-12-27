@@ -32,16 +32,6 @@ Web-based photorealistic gallery powered by Three.js and PBR rendering.
 Local voice-driven AI using Whisper (STT), GPT4All (LLM), and pyttsx3 (TTS).  
 <code>Python</code> • <code>AI</code> • <code>Speech Processing</code>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepdevjose/deepdevjose/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### Contact
 <a href="https://linkedin.com/in/josemanuelcortesceron" target="_blank">LinkedIn</a> • 
 <a href="mailto:deepdevjose@itsoeh.edu.mx">Email</a>
