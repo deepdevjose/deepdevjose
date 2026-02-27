@@ -28,8 +28,22 @@ Currently part of the **VEX Robotics Team** at ITSOEH, where I specialize in **c
 
 I am particularly interested in how **AI, IoT, and spatial computing** converge to shape the next generation of intelligent environments.
 
+### Research
 
+Research collaborator at **:contentReference[oaicite:0]{index=0} (Xi'an Jiaotong–Liverpool University · 西交利物浦大学, Suzhou, China)**
 
+Contributing to applied research in intelligent systems, multimodal AI architectures, and hardware-aware optimization for real-world deployment.
+
+**Research Areas:**
+
+- Multimodal Vision-Language inference pipelines  
+- Edge AI acceleration (ONNX / TensorRT optimization)  
+- Robotics control intelligence and embedded computation  
+- Human–machine interaction modeling  
+- Health-oriented robotic arm diagnostics (Arm Health AI)  
+- Scalable distributed AI system design  
+
+My research integrates machine learning, real-time systems, and embedded architectures to develop production-grade intelligent systems with measurable performance constraints (latency, throughput, and hardware efficiency).
 ---
 
 
