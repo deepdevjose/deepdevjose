@@ -68,9 +68,7 @@ Designed for GPU-accelerated, low-latency visual reasoning and edge deployment s
 
 ### Contact
 
-<a href="https://linkedin.com/in/josemanuelcortesceron" target="_blank">LinkedIn</a> • 
-
-<a href="mailto:deepdevjose@itsoeh.edu.mx">Email</a>
+<a href="https://linkedin.com/in/josemanuelcortesceron" target="_blank">LinkedIn</a> • <a href="mailto:deepdevjose@itsoeh.edu.mx">Email</a>
 
 
 
