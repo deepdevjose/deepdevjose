@@ -24,7 +24,7 @@ My work merges low-level computation with user-centered design to create scalabl
 
 
 
-Currently part of the **VEX Robotics Development Team** at ITSOEH, where I specialize in **control programming, data flow optimization, and hardware–software integration**.  
+Currently part of the **VEX Robotics Team** at ITSOEH, where I specialize in **control programming, data flow optimization, and hardware–software integration**.  
 
 I am particularly interested in how **AI, IoT, and spatial computing** converge to shape the next generation of intelligent environments.
 
