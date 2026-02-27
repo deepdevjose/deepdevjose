@@ -43,7 +43,7 @@ Contributing to applied research in intelligent systems, multimodal AI architect
 - Health-oriented robotic arm diagnostics (Arm Health AI)  
 - Scalable distributed AI system design  
 
-My research integrates machine learning, real-time systems, and embedded architectures to develop production-grade intelligent systems with measurable performance constraints (latency, throughput, and hardware efficiency).
+#### My research integrates machine learning, real-time systems, and embedded architectures to develop production-grade intelligent systems with measurable performance constraints (latency, throughput, and hardware efficiency).
 ---
 
 
