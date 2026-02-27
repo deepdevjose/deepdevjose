@@ -1,40 +1,51 @@
 <h1 align="center">José Manuel Cortes Cerón</h1>
+<p align="center">
+  <strong>Information Technology Engineering Student @ ITSOEH</strong><br>
+  Focused on Intelligent Architectures, Data-Driven Development & Spatial Computing
+</p>
 
 <p align="center">
-  I'm a Information Technology Engineering student with strong foundation in software systems, computer science, and digital innovation.  
-  Focused on intelligent architectures, data-driven development.
+  <a href="https://linkedin.com/in/josemanuelcortesceron"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:deepdevjose@itsoeh.edu.mx"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### Profile
-I am an applied technologist with experience in **software engineering, computer graphics, and embedded systems**.  
-My work merges low-level computation with user-centered design to create scalable, efficient, and perceptually intelligent systems.
+### 👨‍💻 About Me
+I am an applied technologist specializing in the intersection of **Software Engineering, Computer Graphics, and Embedded Systems**. My work merges low-level efficiency with high-level perceptual intelligence.
 
-Currently part of the **VEX Robotics Development Team** at ITSOEH, where I specialize in **control programming, data flow optimization, and hardware–software integration**.  
-I am particularly interested in how **AI, IoT, and spatial computing** converge to shape the next generation of intelligent environments.
-
----
-
-### Core Competencies
-- **Programming Languages:** C, C++, Python, JavaScript  
-- **Frameworks & Tools:** Three.js, React, Node.js, MQTT, Git  
-- **Domains:** 3D Visualization, Embedded Systems, Machine Intelligence, IoT Networks
+* 🤖 **VEX Robotics Dev Team:** Specializing in control programming, data flow optimization, and hardware-software integration.
+* 🌐 **Spatial Computing:** Exploring how AI, IoT, and 3D visualization (Three.js/WebGL) converge to create intelligent environments.
+* 🧠 **Edge AI:** Building local, privacy-focused AI systems for voice and vision processing.
 
 ---
 
-### Selected Projects
-**Virtual Museum of Byron Gálvez**  
-Web-based photorealistic gallery powered by Three.js and PBR rendering.  
-<code>Three.js</code> • <code>JavaScript</code> • <code>WebGL</code>
+### 🛠 Tech Stack
 
-**AI Virtual Psychology Assistant**  
-Local voice-driven AI using Whisper (STT), GPT4All (LLM), and pyttsx3 (TTS).  
-<code>Python</code> • <code>AI</code> • <code>Speech Processing</code>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `C`, `C++`, `Python`, `JavaScript (ES6+)` |
+| **Graphics & Frontend** | `Three.js`, `WebGL`, `React`, `PBR Rendering` |
+| **Backend & IoT** | `Node.js`, `MQTT`, `Embedded C`, `REST APIs` |
+| **AI & Tools** | `Whisper`, `GPT4All`, `Git`, `Linux/Unix` |
 
-### Contact
-<a href="https://linkedin.com/in/josemanuelcortesceron" target="_blank">LinkedIn</a> • 
-<a href="mailto:deepdevjose@itsoeh.edu.mx">Email</a>
+---
+
+### 🌟 Featured Projects
+
+#### [🖼️ Byron Gálvez Virtual Museum](https://github.com/deepdevjose/Byron-s-dynamic-museum)
+*Next-Gen Dynamic Museum using Videomapping.* A photorealistic web gallery using **Three.js** and **PBR materials** to bridge the gap between physical art and digital space.
+
+#### [🎙️ AI Virtual Psychology Assistant](https://github.com/deepdevjose)
+A local, voice-driven AI assistant. It integrates **STT (Whisper)**, **Local LLMs (GPT4All)**, and **TTS (pyttsx3)** for a completely private and autonomous interaction.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepdevjose&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepdevjose&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages graph"  />
+</p>
 
 ---
 
